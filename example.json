@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": "sample",
+      "name": "合成整理服务",
+      "title": "合成文件整理",
+      "summary": "整理合成文件",
+      "base_scope": "一份合成样例",
+      "base_price": 1.0,
+      "extra_unit_price": 0.5,
+      "extra_unit_label": "样例",
+      "deliverables": [
+        "合成结果"
+      ],
+      "not_included": [
+        "任何真实业务数据"
+      ],
+      "keywords": [
+        "sample"
+      ]
+    }
+  ]
+}
